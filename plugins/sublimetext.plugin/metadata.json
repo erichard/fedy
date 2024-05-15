@@ -1,6 +1,6 @@
 {
-	"icon": "sublime-text-3",
-	"label": "Sublime Text 3",
+	"icon": "sublime-text",
+	"label": "Sublime Text",
 	"description": "Sophisticated text editor for code, markup and prose.",
 	"license": "Proprietary",
 	"category": "Development Tools",
